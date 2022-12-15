@@ -4,7 +4,7 @@
 
 ## API themoviedb.org
 
-Для бекенда [themoviedb.org API] (https://www.themoviedb.org/).
+Для бекенда [themoviedb.org API](https://www.themoviedb.org/).
 
 1. /trending/get-trending список самых популярных фильмов на сегодня для
    создания коллекции на главной странице.
